@@ -68,6 +68,13 @@ main h3 {
     font-size: 2em;
 }
 
+main a {
+    color: #47476b; /* Sets font color */
+    text-decoration: none; /* Removes underline */
+    font-weight: bold; /* Sets font weight to bold */
+    font-style: italic; /* Sets font style to italic */
+}
+
 /* ID Selectors for CSS1, CSS2, CSS3 */
 #css1, #css2, #css3 {
     width: 30%;
